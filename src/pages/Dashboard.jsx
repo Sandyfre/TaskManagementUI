@@ -15,7 +15,7 @@ const Dashboard = () => {
       <Typography variant="h4">Dashboard</Typography>
       <Typography sx={{ mt: 2 }}>Welcome — your login worked.</Typography>
       <Button variant="contained" color="secondary" sx={{ mt: 3 }} onClick={logout}>
-        Logout
+        Loggedout
       </Button>
     </Box>
   );
